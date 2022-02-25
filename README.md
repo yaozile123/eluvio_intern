@@ -3,11 +3,13 @@ Hello recruiting team! This file would show you how to run my program.
 
 ## First Step
 Import the file store the file name as a list.
-e.g. filename_list = ['sample.1','sample.2','sample.3']
+
+`filename_list = ['sample.1','sample.2','sample.3']`
 
 ## Second Step
 Use the class called 'Solution' to import the file 
-e.g. solution = Solution(filename_list)
+
+`solution = Solution(filename_list)`
 
 ## Third Step
 Use the function called search_common_string_in_multiple_files() to process the file
