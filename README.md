@@ -19,6 +19,6 @@ print(solution.filenames_longest_strand)
 
 ## Output
 Here is the output for the 10 test sample
-27648
-{'sample.2': [3072], 'sample.3': [17408]}
+
+<img src= "output.png">
 we can see the longest strand has length 27648 and store in sample.2 at index 3072 and sample.3 at index 17408
