@@ -13,6 +13,7 @@ e.g. solution = Solution(filename_list)
 Use the function called search_common_string_in_multiple_files() to process the file
 the filenames that contained longest strand will store in filenames_longest_strand
 the length of longest strand will store in len_longest_strand
+
 e.g.solution.search_common_string_in_multiple_files()
 
 print(solution.len_longest_strand)
